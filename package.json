@@ -1,0 +1,25 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "פרויקט תרגול שאילתות ב-MongoDB. הפרויקט מחולק לשני חלקים.",
+  "main": "01-students-queries.js",
+  "scripts": {
+    "start": "node run-with-mongo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehila4510/MongoDB-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tehila4510/MongoDB-project/issues"
+  },
+  "homepage": "https://github.com/tehila4510/MongoDB-project#readme",
+  "dependencies": {
+    "mongodb": "^7.4.0",
+    "mongodb-memory-server": "^11.2.0",
+    "mongosh": "^2.9.2"
+  }
+}
